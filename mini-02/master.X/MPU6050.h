@@ -1,4 +1,6 @@
 /* File: MPU6050.h */
+//Librería creada por: Khaled MAgdy
+//Librería obtenida de: https://deepbluembedded.com/mpu6050-with-microchip-pic-accelerometer-gyroscope-interfacing-with-pic/
 
 //----------[ MPU6050 Register Map ]-----------
 #define XG_OFFS_TC          0x00
